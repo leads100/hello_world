@@ -1,1 +1,1 @@
-print("Goodnight moon")
+print("Goodnight moon!")
